@@ -1,4 +1,4 @@
-This is a flutter application that fetches the news from the database. Also post the news to the database.The user can like, coment and share to the news. Comment can be edited or deleted by the particular commented user.
+This is a flutter application that fetches the news from the database. Also user can post the news to the database.The user can like, comment and share the news across the different platform. Comment can be edited or deleted by the particular commented user.
 
 1. Packages
 
