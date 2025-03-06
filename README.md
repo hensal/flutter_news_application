@@ -30,13 +30,15 @@
 
 UI:
 
-![news_git](https://github.com/user-attachments/assets/0817b66c-f645-4f5f-a799-e32d29b7e04c)
+![future](https://github.com/user-attachments/assets/da148b04-baa8-466c-8184-8e0c426ab8f6)
 
 
 ![profile_git](https://github.com/user-attachments/assets/37c42c9c-ffb9-47ac-9a86-a8f2be9df037)
 
 
-![share_git](https://github.com/user-attachments/assets/56ad813d-41d5-43be-9f2e-f4db43d87602)
+![git](https://github.com/user-attachments/assets/84ff9edf-2583-4a3f-8c98-e2df22a44afe)
+
+
 
 
 
