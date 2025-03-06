@@ -30,7 +30,7 @@
 
 UI:
 
-![future](https://github.com/user-attachments/assets/da148b04-baa8-466c-8184-8e0c426ab8f6)
+![task](https://github.com/user-attachments/assets/d1922a60-c485-4da0-993c-ac2cb617a01d)
 
 
 ![profile_git](https://github.com/user-attachments/assets/37c42c9c-ffb9-47ac-9a86-a8f2be9df037)
