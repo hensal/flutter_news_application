@@ -1,4 +1,7 @@
 This is a flutter application that fetches the news from the database. Also user can post the news to the database.The user can like, comment and share the news across the different platform. Comment can be edited or deleted by the particular commented user.Authentication is properly handled where user can only perform the activity if logged in.
+1.Create the .env file
+
+   JWT_SECRET=secret555
 
 1. Packages
 
