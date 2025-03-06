@@ -1,0 +1,45 @@
+List<Map<String, String>> newsArticles = [
+  // Finance News
+  {
+    "title": "Stock Market Surges as Tech Giants Rally",
+    "description": "The stock market saw a significant surge today as major tech companies reported strong earnings. Investors are optimistic about continued growth, with Apple, Microsoft, and Tesla leading the charge. Analysts suggest the trend may continue as consumer demand for technology products remains high."
+  },
+  {
+    "title": "Federal Reserve Signals No Interest Rate Hikes",
+    "description": "The Federal Reserve announced it will keep interest rates steady, calming investor concerns. With inflation cooling, policymakers are optimistic about economic stability. Markets responded positively, with the S&P 500 reaching new highs. Experts believe this decision may boost borrowing and spending in the coming months."
+  },
+  {
+    "title": "Cryptocurrency Market Rebounds After Sharp Decline",
+    "description": "Bitcoin and Ethereum bounced back after a steep decline, gaining over 10% in value. Market analysts attribute this recovery to renewed institutional interest. Despite regulatory challenges, crypto investors remain hopeful about long-term growth, with some predicting new all-time highs later this year."
+  },
+  {
+    "title": "Gold Prices Rise Amid Economic Uncertainty",
+    "description": "Gold prices climbed as investors sought safe-haven assets amid economic uncertainties. Analysts point to geopolitical tensions and market volatility as key drivers of demand. With central banks increasing their gold reserves, experts believe prices may continue to rise in the short term."
+  },
+  {
+    "title": "Global Oil Prices Drop as Supply Increases",
+    "description": "Oil prices fell sharply as major producers ramped up supply. OPEC's decision to maintain production levels, coupled with decreased global demand, led to a decline in crude oil prices. Analysts predict further fluctuations, depending on economic conditions and geopolitical developments."
+  },
+  
+  // Film News entertainment
+  {
+    "title": "Upcoming Sci-Fi Blockbuster Breaks Pre-Sale Records",
+    "description": "The latest sci-fi epic has shattered pre-sale ticket records, generating massive buzz. Featuring a star-studded cast and groundbreaking visuals, the film is expected to dominate the box office. Critics anticipate it could become one of the highest-grossing movies of the year."
+  },
+  {
+    "title": "Oscar Nominations Announced, Surprising Snubs & Wins",
+    "description": "The Academy Awards nominations have been revealed, sparking debate among film enthusiasts. While some expected favorites made the list, shocking snubs left fans disappointed. The Best Picture race is particularly competitive, with indie films gaining unexpected recognition."
+  },
+  {
+    "title": "Popular Film Franchise Announces Final Installment",
+    "description": "A beloved film franchise is coming to an end with its final installment set to release next year. Fans are eagerly awaiting the conclusion of the saga, while the director promises an emotional and action-packed finale. Speculations about potential spin-offs continue to grow."
+  },
+  {
+    "title": "Acclaimed Director Teases New Horror Project",
+    "description": "A renowned horror director has teased his next project, promising a terrifying and thought-provoking film. With a history of delivering box office hits, his latest venture is already generating excitement. The film’s cast remains under wraps, adding to the suspense."
+  },
+  {
+    "title": "Streaming Wars Heat Up With New Platform Launch",
+    "description": "A new streaming service has entered the competition, offering exclusive content and competitive pricing. With major studios backing the platform, analysts predict it could disrupt the industry. Consumers now have even more choices, increasing competition among existing services like Netflix and Disney+."
+  }
+];
