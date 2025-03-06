@@ -18,10 +18,13 @@
 3.PostgreSQL
 
   news table
+  
   ![news](https://github.com/user-attachments/assets/53abaeb9-c6ea-4576-afbc-6f2e3dabbb09)
   comment table
+  
   ![coments](https://github.com/user-attachments/assets/133c8146-79c8-4d66-87c5-deda50eca289)
   like table
+  
   ![likes](https://github.com/user-attachments/assets/ab26070a-c92a-457c-87e8-2cad0cc59219)
 
 UI:
