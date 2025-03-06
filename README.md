@@ -1,18 +1,19 @@
 1. Packages
 
-   cupertino_icons: ^1.0.8
-   intl_phone_field: ^3.2.0
-   http: ^0.13.4
-   shared_preferences: ^2.5.2
-   go_router: ^14.8.0
-   file_picker: ^9.0.1
-   image: ^4.5.3
-   intl: ^0.20.2
-   share_plus: ^10.1.4
-   html: ^0.15.5
+       cupertino_icons: ^1.0.8
+       intl_phone_field: ^3.2.0
+       http: ^0.13.4
+       shared_preferences: ^2.5.2
+       go_router: ^14.8.0
+       file_picker: ^9.0.1
+       image: ^4.5.3
+       intl: ^0.20.2
+       share_plus: ^10.1.4
+       html: ^0.15.5
 
 2.NodeJS
-  v18.13.0
+
+      v18.13.0
 
 3.PostgreSQL
 
@@ -23,8 +24,8 @@
 
   ![likes](https://github.com/user-attachments/assets/ab26070a-c92a-457c-87e8-2cad0cc59219)
 
-
 UI:
+
 ![news_git](https://github.com/user-attachments/assets/0817b66c-f645-4f5f-a799-e32d29b7e04c)
 
 
