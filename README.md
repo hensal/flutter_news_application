@@ -2,7 +2,7 @@ This is a flutter application that fetches the news from the database. Also user
 
 1.Create the .env file
 
-   JWT_SECRET=secret555
+       JWT_SECRET=secret555
 
 2. Packages
 
