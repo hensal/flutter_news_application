@@ -1,9 +1,10 @@
 This is a flutter application that fetches the news from the database. Also user can post the news to the database.The user can like, comment and share the news across the different platform. Comment can be edited or deleted by the particular commented user.Authentication is properly handled where user can only perform the activity if logged in.
+
 1.Create the .env file
 
    JWT_SECRET=secret555
 
-1. Packages
+2. Packages
 
        cupertino_icons: ^1.0.8
        intl_phone_field: ^3.2.0
@@ -16,11 +17,11 @@ This is a flutter application that fetches the news from the database. Also user
        share_plus: ^10.1.4
        html: ^0.15.5
 
-2.NodeJS
+3.NodeJS
 
       v18.13.0
 
-3.PostgreSQL
+4.PostgreSQL
 
   news table
   
